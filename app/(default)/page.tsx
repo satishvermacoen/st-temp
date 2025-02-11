@@ -1,14 +1,15 @@
 export const metadata = {
-  title: "Home - Open PRO",
-  description: "Page description",
+  title: "SimpleTech",
+  description: "Simplifying Tech",
 };
 
 import PageIllustration from "@/components/page-illustration";
 import Hero from "@/components/hero-home";
-import Workflows from "@/components/workflows";
+import Workflows from "@/components/products";
 import Features from "@/components/features";
-import Testimonials from "@/components/testimonials";
+import Clients from "@/components/clients";
 import Cta from "@/components/cta";
+import Whyerp from "@/components/Whyerp";
 
 export default function Home() {
   return (
@@ -17,8 +18,8 @@ export default function Home() {
       <Hero />
       <Workflows />
       <Features />
-      <Testimonials />
-      
+      <Clients />
+      <Cta />
     </>
   );
 }

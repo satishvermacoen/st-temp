@@ -27,49 +27,33 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="/about/products/healthcare"
                 >
-                  Features
+                  Healthcare
                 </a>
               </li>
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="about/products/retails"
                 >
-                  Integrations
+                  Retails & E-commerce
                 </a>
               </li>
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="about/products/factories"
                 >
-                  Pricing &amp; Plans
+                  Factories & Manufacturing
                 </a>
               </li>
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="about/products/hospitality"
                 >
-                  Changelog
-                </a>
-              </li>
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
-                  Our method
-                </a>
-              </li>
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
-                  User policy
+                  Hotels & Hospitality
                 </a>
               </li>
             </ul>
@@ -81,7 +65,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="/about"
                 >
                   About us
                 </a>
@@ -89,23 +73,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
-                  Diversity &amp; Inclusion
-                </a>
-              </li>
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
-                  Blog
-                </a>
-              </li>
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="/careers"
                 >
                   Careers
                 </a>
@@ -113,39 +81,47 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="/terms"
                 >
-                  Financial statements
+                  Terms
                 </a>
               </li>
-            </ul>
+              </ul>
           </div>
           {/* 3rd block */}
           <div className="space-y-2">
-            <h3 className="text-sm font-medium text-gray-200">Resources</h3>
+            <h3 className="text-sm font-medium text-gray-200">Clients</h3>
             <ul className="space-y-2 text-sm">
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="/about/products/healthcare"
                 >
-                  Community
+                  Healthcare
                 </a>
               </li>
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="about/products/retails"
                 >
-                  Terms of service
+                  Retails & E-commerce
                 </a>
               </li>
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="about/products/factories"
                 >
-                  Report a vulnerability
+                  Factories & Manufacturing
+                </a>
+              </li>
+              <li>
+                <a
+                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  href="about/products/hospitality"
+                >
+                  Hotels & Hospitality
                 </a>
               </li>
             </ul>
@@ -153,47 +129,35 @@ export default function Footer() {
           {/* 4th block */}
           <div className="space-y-2">
             <h3 className="text-sm font-medium text-gray-200">
-              Content Library
+              Offices:
             </h3>
             <ul className="space-y-2 text-sm">
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
                 >
-                  Templates
+                  NY
                 </a>
               </li>
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
                 >
-                  Tutorials
+                 I 
                 </a>
               </li>
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
                 >
-                  Knowledge base
+                  UK
                 </a>
               </li>
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
                 >
-                  Learn
-                </a>
-              </li>
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
-                  Cookie manager
+                  A
                 </a>
               </li>
             </ul>
@@ -205,13 +169,13 @@ export default function Footer() {
             </div>
             <div className="text-sm">
               <p className="mb-3 text-indigo-200/65">
-                © Cruip.com
+                © Simplertechnologies.in
                 <span className="text-gray-700"> · </span>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+
                 >
-                  Terms
+                  2025
                 </a>
               </p>
               <ul className="inline-flex gap-1">
@@ -234,29 +198,14 @@ export default function Footer() {
                   <a
                     className="flex items-center justify-center text-indigo-500 transition hover:text-indigo-400"
                     href="#0"
-                    aria-label="Medium"
+                    aria-label="Linkedin"
                   >
                     <svg
                       className="h-8 w-8 fill-current"
-                      viewBox="0 0 32 32"
+                      viewBox="0 0 245.97 245.97"
                       xmlns="http://www.w3.org/2000/svg"
                     >
-                      <path d="M23 8H9a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V9a1 1 0 0 0-1-1Zm-1.708 3.791-.858.823a.251.251 0 0 0-.1.241V18.9a.251.251 0 0 0 .1.241l.838.823v.181h-4.215v-.181l.868-.843c.085-.085.085-.11.085-.241v-4.887l-2.41 6.131h-.329l-2.81-6.13V18.1a.567.567 0 0 0 .156.472l1.129 1.37v.181h-3.2v-.181l1.129-1.37a.547.547 0 0 0 .146-.472v-4.749a.416.416 0 0 0-.138-.351l-1-1.209v-.181H13.8l2.4 5.283 2.122-5.283h2.971l-.001.181Z" />
-                    </svg>
-                  </a>
-                </li>
-                <li>
-                  <a
-                    className="flex items-center justify-center text-indigo-500 transition hover:text-indigo-400"
-                    href="#0"
-                    aria-label="Github"
-                  >
-                    <svg
-                      className="h-8 w-8 fill-current"
-                      viewBox="0 0 32 32"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path d="M16 8.2c-4.4 0-8 3.6-8 8 0 3.5 2.3 6.5 5.5 7.6.4.1.5-.2.5-.4V22c-2.2.5-2.7-1-2.7-1-.4-.9-.9-1.2-.9-1.2-.7-.5.1-.5.1-.5.8.1 1.2.8 1.2.8.7 1.3 1.9.9 2.3.7.1-.5.3-.9.5-1.1-1.8-.2-3.6-.9-3.6-4 0-.9.3-1.6.8-2.1-.1-.2-.4-1 .1-2.1 0 0 .7-.2 2.2.8.6-.2 1.3-.3 2-.3s1.4.1 2 .3c1.5-1 2.2-.8 2.2-.8.4 1.1.2 1.9.1 2.1.5.6.8 1.3.8 2.1 0 3.1-1.9 3.7-3.7 3.9.3.4.6.9.6 1.6v2.2c0 .2.1.5.6.4 3.2-1.1 5.5-4.1 5.5-7.6-.1-4.4-3.7-8-8.1-8z" />
+                      <path d="M249.83,27H50.18A23.16,23.16,0,0,0,27,50.17V249.82A23.16,23.16,0,0,0,50.18,273H249.83A23.16,23.16,0,0,0,273,249.82V50.17A23.16,23.16,0,0,0,249.83,27ZM110.41,213.85H83.48V126h26.93Zm-2-101.16A16.08,16.08,0,0,1,97,116.87a16.28,16.28,0,0,1-11.57-4.18A13.49,13.49,0,0,1,81,102.38a13.72,13.72,0,0,1,4.48-10.47A16.32,16.32,0,0,1,97,87.74a16.12,16.12,0,0,1,11.42,4.17,13.72,13.72,0,0,1,4.48,10.47A13.49,13.49,0,0,1,108.44,112.69ZM217.3,213.85H190.54V166.14q0-8.8-4.57-13.69t-12.28-4.88q-7.71,0-12.28,4.88t-4.56,13.69v47.71H129.93V126h26.92v11.65a28.45,28.45,0,0,1,11-9.21,35,35,0,0,1,15.59-3.39q15.42,0,24.63,10t9.21,27.47Z" transform="translate(-27.02 -27.01)" />
                     </svg>
                   </a>
                 </li>
