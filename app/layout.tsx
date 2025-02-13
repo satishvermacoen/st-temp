@@ -5,6 +5,7 @@ import localFont from "next/font/local";
 
 import Header from "@/components/ui/header";
 import Offices from "@/components/ui/offices";
+import { Metadata } from "next";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -39,9 +40,10 @@ const nacelle = localFont({
   display: "swap",
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "SimpleTech",
   description: "Simplifying Tech",
+  icons: "/3.png",
 };
 
 export default function RootLayout({

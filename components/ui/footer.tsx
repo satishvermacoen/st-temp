@@ -95,7 +95,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="/about/products/healthcare"
+                  href="/about/clients"
                 >
                   Healthcare
                 </a>
@@ -103,7 +103,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="about/products/retails"
+                  href="/about/clients"
                 >
                   Retails & E-commerce
                 </a>
@@ -111,7 +111,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="about/products/factories"
+                  href="/about/clients"
                 >
                   Factories & Manufacturing
                 </a>
@@ -119,7 +119,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="about/products/hospitality"
+                  href="/about/clients"
                 >
                   Hotels & Hospitality
                 </a>

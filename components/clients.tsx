@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import useMasonry from "@/utils/useMasonry";
 import Image, { StaticImageData } from "next/image";
 import ClientImg01 from "@/public/logo/amul.png";
 import ClientImg02 from "@/public/logo/bajaj.png"; 
@@ -21,7 +20,6 @@ import ClientImg15 from "@/public/logo/15.png";
 import ClientImg16 from "@/public/logo/16.png";
 import ClientImg17 from "@/public/logo/17.png";
 import ClientImg18 from "@/public/logo/18.png";
-import ClientImg19 from "@/public/logo/19.png";
 import ClientImg20 from "@/public/logo/20.png";
 import ClientImg21 from "@/public/logo/21.png";
 import ClientImg22 from "@/public/logo/22.png";
@@ -171,14 +169,6 @@ const testimonials = [
     content:
       "A diversified conglomerate excelling in FMCG, hospitality, agriculture, and paperboard industries, with popular brands like Aashirvaad, Sunfeast, and Fiama",  
     categories: [1, 3],
-  },
-  {
-    clientImg: ClientImg19,
-    name: "Eloise V.",
-    company: "Bajaj",
-    content:
-      "A renowned Indian conglomerate, excelling in automobiles, financial services, and electricals, driving innovation and excellence in multiple industries.",  
-    categories: [1, 5],
   },
   {
     clientImg: ClientImg20,
