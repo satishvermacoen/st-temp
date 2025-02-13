@@ -128,36 +128,38 @@ export default function Footer() {
           </div>
           {/* 4th block */}
           <div className="space-y-2">
+            <a href="/offices">
             <h3 className="text-sm font-medium text-gray-200">
               Offices:
             </h3>
+            </a>
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-indigo-200/65 transition hover:text-indigo-500" href="/offices"
                 >
-                  NY
+                  India
                 </a>
               </li>
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-indigo-200/65 transition hover:text-indigo-500" href="/offices"
                 >
-                 I 
+                 USA 
                 </a>
               </li>
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-indigo-200/65 transition hover:text-indigo-500" href="/offices"
                 >
                   UK
                 </a>
               </li>
               <li>
                 <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
+                  className="text-indigo-200/65 transition hover:text-indigo-500" href="/offices"
                 >
-                  A
+                France
                 </a>
               </li>
             </ul>
