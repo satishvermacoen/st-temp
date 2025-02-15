@@ -102,7 +102,7 @@ export default function page() {
 </ul>
 
 <h2 className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,var(--color-gray-200),var(--color-indigo-200),var(--color-gray-50),var(--color-indigo-300),var(--color-gray-200))] bg-[length:200%_auto] bg-clip-text pb-4 font-nacelle text-xl font-semibold text-transparent md:text-2xl mt-4">Conclusion</h2>
-<p className="text-lg text-indigo-200/65 text-xs m-4">By leveraging Simplertechnologies’ ERP solutions, Amazon has transformed its e-commerce operations, driving efficiency, scalability, and customer satisfaction. The advanced automation, AI integration, and real-time analytics continue to position Amazon as a leader in the global online marketplace.</p>
+<p className="text-lg text-indigo-200/65 text-xs m-4">Simplertechnologies’ ERP solutions, Amazon has transformed its e-commerce operations, driving efficiency, scalability, and customer satisfaction. The advanced automation, AI integration, and real-time analytics continue to position Amazon as a leader in the global online marketplace.</p>
 
         </div>
       </div>
