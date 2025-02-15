@@ -4,7 +4,7 @@ import Image from 'next/image';
 export default function HeroHome() {
   return (
     <section>
-      <div className="mx-auto max-w-6xl px-4 sm:px-6">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6">
         {/* Hero content */}
         <div className="py-12 md:py-20">
           {/* Section header */}

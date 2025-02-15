@@ -50,7 +50,7 @@ const Page = () => {
                     </span>
                   </div>
                   <p className="text-indigo-200/65 text-xl">
-                    xyz
+                    29-A, Ragvender Nager, City Center, Gwalior, M.P, India 
                   </p>
                 </div>
               </div>
@@ -89,7 +89,7 @@ const Page = () => {
                     </span>
                   </div>
                   <p className="text-indigo-200/65 text-xl">
-                   xyz 
+                  11922 Freedom Dr#550, Reston Virginia , VA 20190, United States
                   </p>
                 </div>
               </div>
@@ -128,7 +128,10 @@ const Page = () => {
                     </span>
                   </div>
                   <p className="text-indigo-200/65 text-xl">
-                    xyz
+                  The Quorum, Bond St S Bristol BS1 3AE, United Kingdom
+                  </p>
+                  <p className="text-indigo-200/65 text-xl">
+                  +44 1173700777 
                   </p>
                 </div>
               </div>
@@ -162,12 +165,15 @@ const Page = () => {
                   <div className="mb-3">
                     <span className="btn-sm relative rounded-full bg-gray-800/40 px-2.5 py-0.5 text-xs font-normal before:pointer-events-none before:absolute before:inset-0 before:rounded-[inherit] before:border before:border-transparent before:[background:linear-gradient(to_bottom,--theme(--color-gray-700/.15),--theme(--color-gray-700/.5))_border-box] before:[mask-composite:exclude_!important] before:[mask:linear-gradient(white_0_0)_padding-box,_linear-gradient(white_0_0)] hover:bg-gray-800/60">
                       <span className="bg-linear-to-r from-indigo-500 to-indigo-200 bg-clip-text text-transparent">
-                        France
+                      Germany
                       </span>
                     </span>
                   </div>
                   <p className="text-indigo-200/65 text-xl">
-                    xyz
+                  RathausstraBe 98, 12105, Berlin , Germany
+                  </p>
+                  <p className="text-indigo-200/65 text-xl">
+                  +49-3075016500
                   </p>
                 </div>
               </div>

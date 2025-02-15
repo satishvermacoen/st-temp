@@ -159,7 +159,7 @@ export default function Footer() {
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500" href="/offices"
                 >
-                France
+                Germany
                 </a>
               </li>
             </ul>
