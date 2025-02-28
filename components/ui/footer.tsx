@@ -184,22 +184,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="flex items-center justify-center text-indigo-500 transition hover:text-indigo-400"
-                    href="#0"
-                    aria-label="Twitter"
-                  >
-                    <svg
-                      className="h-8 w-8 fill-current"
-                      viewBox="0 0 32 32"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path d="m13.063 9 3.495 4.475L20.601 9h2.454l-5.359 5.931L24 23h-4.938l-3.866-4.893L10.771 23H8.316l5.735-6.342L8 9h5.063Zm-.74 1.347h-1.457l8.875 11.232h1.36l-8.778-11.232Z" />
-                    </svg>
-                  </a>
-                </li>
-                <li>
-                  <a
-                    className="flex items-center justify-center text-indigo-500 transition hover:text-indigo-400"
-                    href="#0"
+                    href="https://www.linkedin.com/company/simplertechnologies"
                     aria-label="Linkedin"
                   >
                     <svg

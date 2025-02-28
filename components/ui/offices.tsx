@@ -1,8 +1,7 @@
 export default function Offices() {
   return (
     <div className="z-30 mt-2 w-full md:mt-5 px-10 flex-row">
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-row justify-items-center">
-    <h2 className="text-white flex-row pt-2">Our Offices:</h2>          
+    <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-row justify-items-center">        
     <a className="flex items-center justify-center px-2 text-indigo-500 transition hover:text-indigo-400" href="/offices">
       <svg
         className="h-4 w-4 fill-current"
