@@ -35,7 +35,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="about/products/retails"
+                  href="/about/products/retails"
                 >
                   Retails & E-commerce
                 </a>
@@ -43,7 +43,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="about/products/factories"
+                  href="/about/products/factories"
                 >
                   Factories & Manufacturing
                 </a>
@@ -51,7 +51,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="about/products/hospitality"
+                  href="/about/products/hospitality"
                 >
                   Hotels & Hospitality
                 </a>
