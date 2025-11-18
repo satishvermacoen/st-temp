@@ -141,6 +141,27 @@ export default function Footer() {
                   India
                 </a>
               </li>
+              <li>
+                <a
+                  className="text-indigo-200/65 transition hover:text-indigo-500" href="/offices"
+                >
+                 USA 
+                </a>
+              </li>
+              <li>
+                <a
+                  className="text-indigo-200/65 transition hover:text-indigo-500" href="/offices"
+                >
+                  UK
+                </a>
+              </li>
+              <li>
+                <a
+                  className="text-indigo-200/65 transition hover:text-indigo-500" href="/offices"
+                >
+                Germany
+                </a>
+              </li>
             </ul>
           </div>
           {/* 5th block */}
